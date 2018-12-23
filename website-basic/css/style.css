@@ -1,0 +1,31 @@
+.bg-dark {
+    background-color: darkcyan !important;
+    border-bottom: 2px solid coral;
+}
+
+.navbar-brand img {
+    height: 10vh;
+    width: 10vw;
+}
+
+.navbar-nav {
+    margin-right: 10vw;
+}
+
+.nav-item.active  a.nav-link{
+    color: rgb(27, 27, 27) !important;
+    border-bottom: 1px solid coral;
+}
+
+.nav-item  a.nav-link:hover{
+    color: rgb(38, 16, 201) !important;
+    border-bottom: 1px solid darkkhaki;
+}
+
+h3 {
+	color: orange;
+}
+
+footer {
+    background-color: dodgerblue;
+}
